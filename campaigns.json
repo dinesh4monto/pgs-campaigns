@@ -1,0 +1,17 @@
+{
+  "campaigns": [
+    {
+      "type": "image",
+      "image": "https://www.google.com",
+      "link": "https://www.google.com/image.jpg",
+      "time": 1663668000
+    },
+    {
+      "type": "content",
+      "title": "Lorem Ipsum",
+      "content": "This is a lorem ipsum. Say hello to <a href=\"https://www.google.com\">World</a>.",
+      "time": 1663668000
+    }
+  ]
+}
+
