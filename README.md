@@ -1,5 +1,8 @@
 # pgs-campaigns
 
+Use below link to get and convert timestamp.
+https://www.epochconverter.com/
+
 [campaign.json](https://dinesh4monto.github.io/pgs-campaigns/campaign.json)
 
 jSON Generator from http://www.objgen.com/json.
